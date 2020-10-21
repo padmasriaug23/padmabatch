@@ -9,3 +9,4 @@ root@master:/home/ubuntu/myproj# git status
 ^C
 root@master:/home/ubuntu/myproj# history
 root@master:/home/ubuntu/myproj# git version
+1.txt is added again
