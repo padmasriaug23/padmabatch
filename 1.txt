@@ -1,0 +1,11 @@
+1.txt is modified now
+^c
+^C
+root@master:/home/ubuntu/myproj# cat 1.txt
+root@master:/home/ubuntu/myproj# git status
+root@master:/home/ubuntu/myproj# git status
+root@master:/home/ubuntu/myproj# git log
+root@master:/home/ubuntu/myproj# git status
+^C
+root@master:/home/ubuntu/myproj# history
+root@master:/home/ubuntu/myproj# git version

@@ -1,0 +1,5 @@
+this is new change in 2.txt
+git status
+^c
+sudo su
+
